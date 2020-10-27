@@ -1,0 +1,22 @@
+[
+	{
+		"name":"Software / Game Development",
+		"description":" Do you need any of my services, from Website Development, or Ecommerce website, or Mobile app, or Training on Information Technology courses? Please contact me today. ",
+		"price_range":"$100 - $million"
+	},
+	{
+		"name":"Website Development",
+		"description":"Your website is the face of your brand and can be an incredible selling point for your business. But it needs to reflect who you are as a business, in terms of the design and content",
+		"price_range":"$100 - $million"
+	},
+	{
+		"name":"Systems Integration",
+		"description":"I specialize in integrating various parts of a system by using Application Programmers Interface (API). An API allows different software, databases, applications etc. to interact and share information with one another. always build a new system from ground to up",
+		"price_range":"$100 - $million"
+	},
+	{
+		"name":"Mobile App Building",
+		"description":" Technology and the consumer market are evolving as is mobile and website app development. Businesses are having to find more ways to connect with their different stakeholders, employees and customers. One way of doing this is to develop and design a custom web or mobile app to fit their specific needs",
+		"price_range":"$500 - $million"
+	}
+]
